@@ -4,7 +4,7 @@ A RESTful API for managing tasks built with Node.js, Express, and MongoDB.
 
 ## Live API
 
-https://task-manager-api.up.railway.app
+https://taskmanagerapibackend-bmb6iz24.b4a.run
 
 ## Tech Stack
 
